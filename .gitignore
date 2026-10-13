@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+data/
+nginx/certs/
+*.db
+*.db.enc
+.vscode/
+.idea/
